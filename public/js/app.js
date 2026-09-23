@@ -121,8 +121,9 @@
     const cityParam = qs.get('city');
     Promise.all([
       fetch('/api/spots-map-markers').then(r => r.json()),
-      fetch('/api/cities').then(r => r.json())
-    ]).then(([markers, citiesData]) => {
+      fetch('/api/cities').then(r => r.json()),
+      fetch('/api/map-markers').then(r => r.json())
+    ]).then(([markers, citiesData, mapMarkerData]) => {
       const cityMarkers = [];
       for (const c of citiesData.cities) {
         cityMarkers.push({ name: c.name, x: c.x, y: c.y, z: c.z, type: 'city' });
@@ -158,12 +159,28 @@
       });
       map.setMarkers(markers);
       map.setCities(citiesData.cities);
-      $('#mapZoomIn').addEventListener('click', () => map.zoom(1));
+      map.setMapMarkers(mapMarkerData.markers || []);
       $('#mapZoomOut').addEventListener('click', () => map.zoom(-1));
-      $('#mapFloorUp').addEventListener('click', () => map.floorUp());
-      $('#mapFloorDown').addEventListener('click', () => map.floorDown());
+
+      $('#mapFloorUp').addEventListener('click', () => { map.floorUp(); refreshMapMarkers(); });
       $('#showSpots').addEventListener('change', e => map.setShowSpots(e.target.checked));
       $('#showCities').addEventListener('change', e => map.setShowCities(e.target.checked));
+      const mapSearch = $('#mapMarkerSearch');
+      const mapType = $('#mapMarkerType');
+      const mapCount = $('#mapMarkerCount');
+      async function refreshMapMarkers() {
+        const p = new URLSearchParams();
+        const q = (mapSearch && mapSearch.value || '').trim(); if (q) p.set('q', q);
+        const t = mapType && mapType.value; if (t) p.set('type', t);
+        const z = $('#showFloorOnly') && $('#showFloorOnly').checked ? map.getFloor() : null;
+        if (z !== null) p.set('z', z);
+        try { const d = await (await fetch('/api/map-markers?' + p.toString())).json(); map.setMapMarkers(d.markers || []); if (mapCount) mapCount.textContent = `${d.total} znaczników`; } catch(e) {}
+      }
+      if (mapSearch) mapSearch.addEventListener('input', () => { clearTimeout(window.__mapSearchTimer); window.__mapSearchTimer=setTimeout(refreshMapMarkers,180); });
+      if (mapType) mapType.addEventListener('change', refreshMapMarkers);
+      const floorOnly=$('#showFloorOnly'); if(floorOnly) floorOnly.addEventListener('change', refreshMapMarkers);
+      $('#mapZoomIn').addEventListener('click', () => map.zoom(1));
+      if (mapCount) mapCount.textContent = `${mapMarkerData.markers.length} znaczników`; 
       if (spotSlug) setTimeout(() => { const m = markers.find(x => x.slug === spotSlug); if (m) $('#mapPopup').hidden = false; }, 300);
     });
   }
