@@ -9,12 +9,19 @@ const app = express();
 app.use(express.json({ limit: '12mb' }));
 
 const DATA_FILE = path.join(__dirname, 'data', 'spots.json');
+const CATALOG_FILE = path.join(__dirname, 'data', 'catalog_hunts.json');
 const CITIES_FILE = path.join(__dirname, 'data', 'cities.json');
 const ADMIN_TOKEN = process.env.ADMIN_TOKEN || 'tibia-admin-2026';
 const PORT = process.env.PORT || 3000;
 
 let SPOTS = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
+const CATALOG_SPOTS = fs.existsSync(CATALOG_FILE) ? JSON.parse(fs.readFileSync(CATALOG_FILE, 'utf8')) : [];
+// Merge curated catalog entries while keeping the original measured database intact.
+const existingNames = new Set(SPOTS.map(s => s.name.toLowerCase()));
+SPOTS = SPOTS.concat(CATALOG_SPOTS.filter(s => !existingNames.has(String(s.name).toLowerCase())));
 const CITIES = JSON.parse(fs.readFileSync(CITIES_FILE, 'utf8'));
+const MAP_MARKERS = JSON.parse(fs.readFileSync(path.join(__dirname, 'public', 'map-data', 'markers.json'), 'utf8'));
+
 
 function saveSpots() {
   fs.writeFileSync(DATA_FILE, JSON.stringify(SPOTS, null, 1));
@@ -632,10 +639,32 @@ app.get('/api/next-steps', (req, res) => {
   res.json(steps.map(st => ({ from: st.from, to: st.to, name: st.spot.name, slug: st.spot.slug, recLevel: st.spot.recLevel })));
 });
 app.get('/api/cities', (req, res) => res.json(CITIES));
+
+app.get('/api/map-markers', (req, res) => {
+  const floor = req.query.z === undefined || req.query.z === '' ? null : +req.query.z;
+  const type = String(req.query.type || '').toLowerCase();
+  const q = String(req.query.q || '').toLowerCase().trim();
+  const all = floor === null ? MAP_MARKERS : MAP_MARKERS.filter(m => m.z === floor);
+  const out = q ? all.filter(m => (m.description || '').toLowerCase().includes(q) || (m.icon || '').toLowerCase().includes(q)) : all;
+  const typed = type ? out.filter(m => markerType(m.icon) === type) : out;
+  res.json({ total: typed.length, markers: typed });
+});
+
+function markerType(icon) {
+  const i = String(icon || '').toLowerCase();
+  if (i.includes('sword')) return 'hunt';
+  if (i.includes('skull') || i === 'crossmark') return 'danger';
+  if (i.includes('flag')) return 'location';
+  if (i === 'up' || i === 'down' || i.startsWith('red ')) return 'stairs';
+  if (i === 'star') return 'poi';
+  if (i === '?' || i === '!') return 'quest';
+  return 'other';
+}
 app.get('/api/spots-map-markers', (req, res) => res.json(SPOTS.map(s => ({
   id: s.id, slug: s.slug, name: s.name, recLevel: s.recLevel, vocations: s.vocations,
   x: s.coords.x, y: s.coords.y, z: s.coords.z, approx: !!s.coords.approx, risk: s.risk,
-  exp: s.expPerHour ? Scoring.fmtGold(s.expPerHour.avg) + '/h' : null
+  exp: s.expPerHour ? Scoring.fmtGold(s.expPerHour.avg) + '/h' : null,
+  dataQuality: s.dataQuality || 'measured', source: s.source || null
 }))));
 
 /* ------------------------------------------------------- SEO misc --- */
