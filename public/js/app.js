@@ -151,6 +151,12 @@
               <div class="inline-form"><a class="btn btn-gold btn-sm" href="/hunt/${esc(m.slug)}">Otwórz kartę spotu</a>
               <button class="btn btn-sm" id="popCenter">Wyśrodkuj</button></div>`;
             $('#popCenter').addEventListener('click', () => map.centerOn(m.x, m.y, m.z, 5));
+          } else if (m.kind === 'map') {
+            pop.innerHTML = `<h3>📌 ${esc(m.description || m.icon || 'Znacznik mapy')}</h3>
+              <p class="small muted">Typ: <b>${esc(m.type || 'other')}</b> · X: ${esc(m.x)} · Y: ${esc(m.y)} · piętro: ${esc(m.z)}</p>
+              <div class="inline-form"><button class="btn btn-sm" id="mapCopyCoords">Kopiuj współrzędne</button><button class="btn btn-sm" id="mapCenterMarker">Wyśrodkuj</button></div>`;
+            const cc=$('#mapCopyCoords'); if(cc) cc.addEventListener('click',()=>navigator.clipboard?.writeText(`${m.x}, ${m.y}, ${m.z}`));
+            const cm=$('#mapCenterMarker'); if(cm) cm.addEventListener('click',()=>map.centerOn(m.x,m.y,m.z,5));
           } else {
             pop.innerHTML = `<h3>📍 ${esc(m.name)}</h3><p class="small muted">Znacznik POI miasta (depot/bank/temple/bless) — dane tibiamaps.io.</p>`;
           }
@@ -163,6 +169,7 @@
       $('#mapZoomOut').addEventListener('click', () => map.zoom(-1));
 
       $('#mapFloorUp').addEventListener('click', () => { map.floorUp(); refreshMapMarkers(); });
+      $('#mapFloorDown').addEventListener('click', () => { map.floorDown(); refreshMapMarkers(); });
       $('#showSpots').addEventListener('change', e => map.setShowSpots(e.target.checked));
       $('#showCities').addEventListener('change', e => map.setShowCities(e.target.checked));
       const mapSearch = $('#mapMarkerSearch');
