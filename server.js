@@ -186,7 +186,7 @@ function spotCard(s, opts = {}) {
     </a>
     <div class="card-body">
       <h3><a href="/hunt/${s.slug}">${esc(s.name)}</a></h3>
-      <p class="card-meta">${esc(s.region)} · ${esc(s.city)} · ${vocBadges(s.vocations)}</p>
+      <p class="card-meta">${esc(s.region)} · ${esc(s.city)} · ${vocBadges(s.vocations)}${s.dataQuality === 'catalog' ? ' · <span class="tag warn">katalog</span>' : ''} </p>
       <div class="card-stats">
         <span class="stat exp" title="EXP/h">⚡ ${exp}</span>
         <span class="stat ${moneyCls(s.profitPerHour ? s.profitPerHour.avg : 0)}" title="Profit/h">💰 ${prof}</span>
@@ -302,7 +302,7 @@ function renderSpot(s) {
       <div>
         <h1>${esc(s.name)}</h1>
         <p class="muted">${esc(s.region)} · miasto: ${esc(s.city)} · kontynent: ${esc(s.continent)}</p>
-        <p class="muted small">LAST UPDATED: ${esc(s.lastUpdated)} ${s.dataQuality === 'estimate' ? '· <span class="tag warn">dane szacunkowe</span>' : '· <span class="tag ok">dane społeczności</span>'}</p>
+        <p class="muted small">LAST UPDATED: ${esc(s.lastUpdated)} ${s.dataQuality === 'catalog' ? '· <span class="tag warn">katalog / poziom przybliżony</span>' : s.dataQuality === 'estimate' ? '· <span class="tag warn">dane szacunkowe</span>' : '· <span class="tag ok">dane społeczności</span>'}</p>
       </div>
       <div class="spot-head-actions">
         <button class="btn btn-ghost btn-compare" data-id="${s.id}">⇄ Dodaj do porównania</button>
