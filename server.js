@@ -430,18 +430,26 @@ app.get('/map', (req, res) => res.send(layout({
   content: `<section class="panel map-panel">
     <h1>Mapa Tibii</h1>
     <p class="muted">Prawdziwa automapa świata (kafelki tibiamaps.io). Znaczniki spotów pochodzą z bazy (realne współrzędne tibiamaps.io lub przybliżone — oznaczone ⚠). Kliknij znacznik, aby otworzyć kartę spotu.</p>
+    <div class="map-toolbar">
+      <div class="map-search-row">
+        <input id="mapMarkerSearch" type="search" placeholder="Szukaj znacznika: boss, quest, exit, spawn, teleport...">
+        <select id="mapMarkerType">
+          <option value="">Wszystkie typy</option><option value="hunt">⚔ Hunt / boss</option><option value="danger">☠ Danger / spawn</option><option value="location">⚑ Lokacje / wejścia</option><option value="stairs">↕ Schody / przejścia</option><option value="poi">★ POI</option><option value="quest">? Quest</option>
+        </select>
+        <label class="chk"><input type="checkbox" id="showFloorOnly"> Tylko bieżące piętro</label>
+        <span class="muted small" id="mapMarkerCount">0 znaczników</span>
+      </div>
+      <div class="map-controls-row">
+        <button id="mapZoomIn" class="btn btn-sm">＋</button><button id="mapZoomOut" class="btn btn-sm">－</button>
+        <button id="mapFloorUp" class="btn btn-sm">▲ piętro</button><button id="mapFloorDown" class="btn btn-sm">▼ piętro</button>
+        <span class="muted small" id="mapFloorLabel">piętro: 0</span>
+        <label class="chk"><input type="checkbox" id="showSpots" checked> Hunting spoty</label>
+        <label class="chk"><input type="checkbox" id="showCities" checked> Miasta/POI</label>
+        <span class="muted small" id="mapCoords"></span>
+      </div>
+    </div>
     <div id="tibiaMap" class="tibia-map" data-spot="${esc(req.query.spot || '')}"></div>
     <div id="mapPopup" class="map-popup" hidden></div>
-    <div class="map-controls-row">
-      <button id="mapZoomIn" class="btn btn-sm">＋</button>
-      <button id="mapZoomOut" class="btn btn-sm">－</button>
-      <button id="mapFloorUp" class="btn btn-sm">▲ piętro</button>
-      <button id="mapFloorDown" class="btn btn-sm">▼ piętro</button>
-      <span class="muted small" id="mapFloorLabel">piętro: 0</span>
-      <label class="chk"><input type="checkbox" id="showSpots" checked> Spoty</label>
-      <label class="chk"><input type="checkbox" id="showCities" checked> Miasta/POI</label>
-      <span class="muted small" id="mapCoords"></span>
-    </div>
     <p class="muted small">Uwaga: kafelki mapy ładowane są z tibiamaps.github.io (GitHub Pages). Bez internetu zobaczysz siatkę zastępczą.</p>
   </section>`,
   jsonld: { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Mapa Tibii z hunting spotami' }
