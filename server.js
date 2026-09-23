@@ -9,12 +9,19 @@ const app = express();
 app.use(express.json({ limit: '12mb' }));
 
 const DATA_FILE = path.join(__dirname, 'data', 'spots.json');
+const CATALOG_FILE = path.join(__dirname, 'data', 'catalog_hunts.json');
 const CITIES_FILE = path.join(__dirname, 'data', 'cities.json');
 const ADMIN_TOKEN = process.env.ADMIN_TOKEN || 'tibia-admin-2026';
 const PORT = process.env.PORT || 3000;
 
 let SPOTS = JSON.parse(fs.readFileSync(DATA_FILE, 'utf8'));
+const CATALOG_SPOTS = fs.existsSync(CATALOG_FILE) ? JSON.parse(fs.readFileSync(CATALOG_FILE, 'utf8')) : [];
+// Merge curated catalog entries while keeping the original measured database intact.
+const existingNames = new Set(SPOTS.map(s => s.name.toLowerCase()));
+SPOTS = SPOTS.concat(CATALOG_SPOTS.filter(s => !existingNames.has(String(s.name).toLowerCase())));
 const CITIES = JSON.parse(fs.readFileSync(CITIES_FILE, 'utf8'));
+const MAP_MARKERS = JSON.parse(fs.readFileSync(path.join(__dirname, 'public', 'map-data', 'markers.json'), 'utf8'));
+
 
 function saveSpots() {
   fs.writeFileSync(DATA_FILE, JSON.stringify(SPOTS, null, 1));
@@ -179,7 +186,7 @@ function spotCard(s, opts = {}) {
     </a>
     <div class="card-body">
       <h3><a href="/hunt/${s.slug}">${esc(s.name)}</a></h3>
-      <p class="card-meta">${esc(s.region)} · ${esc(s.city)} · ${vocBadges(s.vocations)}</p>
+      <p class="card-meta">${esc(s.region)} · ${esc(s.city)} · ${vocBadges(s.vocations)}${s.dataQuality === 'catalog' ? ' · <span class="tag warn">katalog</span>' : ''} </p>
       <div class="card-stats">
         <span class="stat exp" title="EXP/h">⚡ ${exp}</span>
         <span class="stat ${moneyCls(s.profitPerHour ? s.profitPerHour.avg : 0)}" title="Profit/h">💰 ${prof}</span>
@@ -295,7 +302,7 @@ function renderSpot(s) {
       <div>
         <h1>${esc(s.name)}</h1>
         <p class="muted">${esc(s.region)} · miasto: ${esc(s.city)} · kontynent: ${esc(s.continent)}</p>
-        <p class="muted small">LAST UPDATED: ${esc(s.lastUpdated)} ${s.dataQuality === 'estimate' ? '· <span class="tag warn">dane szacunkowe</span>' : '· <span class="tag ok">dane społeczności</span>'}</p>
+        <p class="muted small">LAST UPDATED: ${esc(s.lastUpdated)} ${s.dataQuality === 'catalog' ? '· <span class="tag warn">katalog / poziom przybliżony</span>' : s.dataQuality === 'estimate' ? '· <span class="tag warn">dane szacunkowe</span>' : '· <span class="tag ok">dane społeczności</span>'}</p>
       </div>
       <div class="spot-head-actions">
         <button class="btn btn-ghost btn-compare" data-id="${s.id}">⇄ Dodaj do porównania</button>
@@ -423,18 +430,26 @@ app.get('/map', (req, res) => res.send(layout({
   content: `<section class="panel map-panel">
     <h1>Mapa Tibii</h1>
     <p class="muted">Prawdziwa automapa świata (kafelki tibiamaps.io). Znaczniki spotów pochodzą z bazy (realne współrzędne tibiamaps.io lub przybliżone — oznaczone ⚠). Kliknij znacznik, aby otworzyć kartę spotu.</p>
+    <div class="map-toolbar">
+      <div class="map-search-row">
+        <input id="mapMarkerSearch" type="search" placeholder="Szukaj znacznika: boss, quest, exit, spawn, teleport...">
+        <select id="mapMarkerType">
+          <option value="">Wszystkie typy</option><option value="hunt">⚔ Hunt / boss</option><option value="danger">☠ Danger / spawn</option><option value="location">⚑ Lokacje / wejścia</option><option value="stairs">↕ Schody / przejścia</option><option value="poi">★ POI</option><option value="quest">? Quest</option>
+        </select>
+        <label class="chk"><input type="checkbox" id="showFloorOnly"> Tylko bieżące piętro</label>
+        <span class="muted small" id="mapMarkerCount">0 znaczników</span>
+      </div>
+      <div class="map-controls-row">
+        <button id="mapZoomIn" class="btn btn-sm">＋</button><button id="mapZoomOut" class="btn btn-sm">－</button>
+        <button id="mapFloorUp" class="btn btn-sm">▲ piętro</button><button id="mapFloorDown" class="btn btn-sm">▼ piętro</button>
+        <span class="muted small" id="mapFloorLabel">piętro: 0</span>
+        <label class="chk"><input type="checkbox" id="showSpots" checked> Hunting spoty</label>
+        <label class="chk"><input type="checkbox" id="showCities" checked> Miasta/POI</label>
+        <span class="muted small" id="mapCoords"></span>
+      </div>
+    </div>
     <div id="tibiaMap" class="tibia-map" data-spot="${esc(req.query.spot || '')}"></div>
     <div id="mapPopup" class="map-popup" hidden></div>
-    <div class="map-controls-row">
-      <button id="mapZoomIn" class="btn btn-sm">＋</button>
-      <button id="mapZoomOut" class="btn btn-sm">－</button>
-      <button id="mapFloorUp" class="btn btn-sm">▲ piętro</button>
-      <button id="mapFloorDown" class="btn btn-sm">▼ piętro</button>
-      <span class="muted small" id="mapFloorLabel">piętro: 0</span>
-      <label class="chk"><input type="checkbox" id="showSpots" checked> Spoty</label>
-      <label class="chk"><input type="checkbox" id="showCities" checked> Miasta/POI</label>
-      <span class="muted small" id="mapCoords"></span>
-    </div>
     <p class="muted small">Uwaga: kafelki mapy ładowane są z tibiamaps.github.io (GitHub Pages). Bez internetu zobaczysz siatkę zastępczą.</p>
   </section>`,
   jsonld: { '@context': 'https://schema.org', '@type': 'WebPage', name: 'Mapa Tibii z hunting spotami' }
@@ -632,10 +647,32 @@ app.get('/api/next-steps', (req, res) => {
   res.json(steps.map(st => ({ from: st.from, to: st.to, name: st.spot.name, slug: st.spot.slug, recLevel: st.spot.recLevel })));
 });
 app.get('/api/cities', (req, res) => res.json(CITIES));
+
+app.get('/api/map-markers', (req, res) => {
+  const floor = req.query.z === undefined || req.query.z === '' ? null : +req.query.z;
+  const type = String(req.query.type || '').toLowerCase();
+  const q = String(req.query.q || '').toLowerCase().trim();
+  const all = floor === null ? MAP_MARKERS : MAP_MARKERS.filter(m => m.z === floor);
+  const out = q ? all.filter(m => (m.description || '').toLowerCase().includes(q) || (m.icon || '').toLowerCase().includes(q)) : all;
+  const typed = type ? out.filter(m => markerType(m.icon) === type) : out;
+  res.json({ total: typed.length, markers: typed });
+});
+
+function markerType(icon) {
+  const i = String(icon || '').toLowerCase();
+  if (i.includes('sword')) return 'hunt';
+  if (i.includes('skull') || i === 'crossmark') return 'danger';
+  if (i.includes('flag')) return 'location';
+  if (i === 'up' || i === 'down' || i.startsWith('red ')) return 'stairs';
+  if (i === 'star') return 'poi';
+  if (i === '?' || i === '!') return 'quest';
+  return 'other';
+}
 app.get('/api/spots-map-markers', (req, res) => res.json(SPOTS.map(s => ({
   id: s.id, slug: s.slug, name: s.name, recLevel: s.recLevel, vocations: s.vocations,
   x: s.coords.x, y: s.coords.y, z: s.coords.z, approx: !!s.coords.approx, risk: s.risk,
-  exp: s.expPerHour ? Scoring.fmtGold(s.expPerHour.avg) + '/h' : null
+  exp: s.expPerHour ? Scoring.fmtGold(s.expPerHour.avg) + '/h' : null,
+  dataQuality: s.dataQuality || 'measured', source: s.source || null
 }))));
 
 /* ------------------------------------------------------- SEO misc --- */

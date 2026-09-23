@@ -1,0 +1,8108 @@
+[
+ {
+  "id": "catalog-targuna-pirates-1",
+  "name": "Targuna Pirates",
+  "slug": "targuna-pirates-1",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32593,
+   "y": 32716,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 10,
+  "levelMax": 50,
+  "recLevel": "10+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-targuna-infernoids-2",
+  "name": "Targuna Infernoids",
+  "slug": "targuna-infernoids-2",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32610,
+   "y": 32745,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 12,
+  "levelMax": 52,
+  "recLevel": "12+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-elves-yalahar-3",
+  "name": "Elves Yalahar",
+  "slug": "elves-yalahar-3",
+  "region": "Yalahar",
+  "continent": "Yalahar",
+  "city": "Yalahar",
+  "coords": {
+   "x": 32797,
+   "y": 31276,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 18,
+  "levelMax": 58,
+  "recLevel": "18+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-minotaurs-darashia-4",
+  "name": "Minotaurs Darashia",
+  "slug": "minotaurs-darashia-4",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33235,
+   "y": 32451,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 18,
+  "levelMax": 58,
+  "recLevel": "18+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-stonerefiners-5",
+  "name": "Stonerefiners",
+  "slug": "stonerefiners-5",
+  "region": "Venore",
+  "continent": "Venore",
+  "city": "Venore",
+  "coords": {
+   "x": 32837,
+   "y": 32115,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 18,
+  "levelMax": 58,
+  "recLevel": "18+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-mutated-humans-yalahar-6",
+  "name": "Mutated Humans Yalahar",
+  "slug": "mutated-humans-yalahar-6",
+  "region": "Yalahar",
+  "continent": "Yalahar",
+  "city": "Yalahar",
+  "coords": {
+   "x": 32787,
+   "y": 31241,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 18,
+  "levelMax": 58,
+  "recLevel": "18+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-coryms-port-hope-7",
+  "name": "Coryms Port Hope",
+  "slug": "coryms-port-hope-7",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32634,
+   "y": 32768,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 30,
+  "levelMax": 70,
+  "recLevel": "30+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-mother-of-scarabs-lair-3-8",
+  "name": "Mother of Scarabs Lair -3",
+  "slug": "mother-of-scarabs-lair-3-8",
+  "region": "Ankrahmun",
+  "continent": "Ankrahmun",
+  "city": "Ankrahmun",
+  "coords": {
+   "x": 33155,
+   "y": 32833,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 30,
+  "levelMax": 70,
+  "recLevel": "30+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-blood-crabs-laguna-islands-9",
+  "name": "Blood Crabs Laguna Islands",
+  "slug": "blood-crabs-laguna-islands-9",
+  "region": "Meriana",
+  "continent": "Meriana",
+  "city": "Meriana",
+  "coords": {
+   "x": 31930,
+   "y": 31921,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 30,
+  "levelMax": 70,
+  "recLevel": "30+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-edron-tomb-10",
+  "name": "Edron Tomb",
+  "slug": "edron-tomb-10",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33170,
+   "y": 31799,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 15,
+  "levelMax": 55,
+  "recLevel": "15+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-amazon-camp-11",
+  "name": "Amazon Camp",
+  "slug": "amazon-camp-11",
+  "region": "Venore",
+  "continent": "Venore",
+  "city": "Venore",
+  "coords": {
+   "x": 32878,
+   "y": 32106,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 15,
+  "levelMax": 55,
+  "recLevel": "15+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-mammoths-badgers-svargrond-12",
+  "name": "Mammoths / Badgers Svargrond",
+  "slug": "mammoths-badgers-svargrond-12",
+  "region": "Svargrond",
+  "continent": "Svargrond",
+  "city": "Svargrond",
+  "coords": {
+   "x": 32237,
+   "y": 31124,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 25,
+  "levelMax": 65,
+  "recLevel": "25+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-zombies-cemetery-yalahar-13",
+  "name": "Zombies Cemetery Yalahar",
+  "slug": "zombies-cemetery-yalahar-13",
+  "region": "Yalahar",
+  "continent": "Yalahar",
+  "city": "Yalahar",
+  "coords": {
+   "x": 32784,
+   "y": 31261,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 40,
+  "levelMax": 80,
+  "recLevel": "40+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-banuta-apes-14",
+  "name": "Banuta Apes",
+  "slug": "banuta-apes-14",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32631,
+   "y": 32727,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 40,
+  "levelMax": 80,
+  "recLevel": "40+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-darashia-dragon-lair-15",
+  "name": "Darashia Dragon Lair",
+  "slug": "darashia-dragon-lair-15",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33239,
+   "y": 32465,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 40,
+  "levelMax": 80,
+  "recLevel": "40+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-yalahar-dragons-16",
+  "name": "Yalahar Dragons",
+  "slug": "yalahar-dragons-16",
+  "region": "Yalahar",
+  "continent": "Yalahar",
+  "city": "Yalahar",
+  "coords": {
+   "x": 32774,
+   "y": 31226,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 40,
+  "levelMax": 80,
+  "recLevel": "40+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-edron-old-fortress-bonebeasts-17",
+  "name": "Edron Old Fortress Bonebeasts",
+  "slug": "edron-old-fortress-bonebeasts-17",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33167,
+   "y": 31819,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 40,
+  "levelMax": 80,
+  "recLevel": "40+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 1,
+  "risk": 1,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-krailos-surface-18",
+  "name": "Krailos Surface",
+  "slug": "krailos-surface-18",
+  "region": "Rathleton",
+  "continent": "Rathleton",
+  "city": "Rathleton",
+  "coords": {
+   "x": 33568,
+   "y": 32364,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 50,
+  "levelMax": 90,
+  "recLevel": "50+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-edron-vampire-crypt-3-19",
+  "name": "Edron Vampire Crypt -3",
+  "slug": "edron-vampire-crypt-3-19",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33140,
+   "y": 31816,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 50,
+  "levelMax": 90,
+  "recLevel": "50+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-laguna-islands-profit-20",
+  "name": "Laguna Islands Profit",
+  "slug": "laguna-islands-profit-20",
+  "region": "Meriana",
+  "continent": "Meriana",
+  "city": "Meriana",
+  "coords": {
+   "x": 31934,
+   "y": 31874,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 50,
+  "levelMax": 90,
+  "recLevel": "50+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-wyrms-liberty-bay-21",
+  "name": "Wyrms Liberty Bay",
+  "slug": "wyrms-liberty-bay-21",
+  "region": "Liberty Bay",
+  "continent": "Liberty Bay",
+  "city": "Liberty Bay",
+  "coords": {
+   "x": 32332,
+   "y": 32836,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 50,
+  "levelMax": 90,
+  "recLevel": "50+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-forbidden-temple-ankrahmun-cults-22",
+  "name": "Forbidden Temple / Ankrahmun Cults",
+  "slug": "forbidden-temple-ankrahmun-cults-22",
+  "region": "Ankrahmun",
+  "continent": "Ankrahmun",
+  "city": "Ankrahmun",
+  "coords": {
+   "x": 33149,
+   "y": 32873,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 60,
+  "levelMax": 108,
+  "recLevel": "60+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-ramoa-bonebeast-island-23",
+  "name": "Ramoa Bonebeast Island",
+  "slug": "ramoa-bonebeast-island-23",
+  "region": "Meriana",
+  "continent": "Meriana",
+  "city": "Meriana",
+  "coords": {
+   "x": 31924,
+   "y": 31900,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 60,
+  "levelMax": 108,
+  "recLevel": "60+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-peninsula-tomb-24",
+  "name": "Peninsula Tomb",
+  "slug": "peninsula-tomb-24",
+  "region": "Ankrahmun",
+  "continent": "Ankrahmun",
+  "city": "Ankrahmun",
+  "coords": {
+   "x": 33122,
+   "y": 32870,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 60,
+  "levelMax": 108,
+  "recLevel": "60+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-nibelor-crystal-spiders-25",
+  "name": "Nibelor Crystal Spiders",
+  "slug": "nibelor-crystal-spiders-25",
+  "region": "Svargrond",
+  "continent": "Svargrond",
+  "city": "Svargrond",
+  "coords": {
+   "x": 32275,
+   "y": 31135,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 60,
+  "levelMax": 108,
+  "recLevel": "60+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-cults-yalahar-26",
+  "name": "Cults Yalahar",
+  "slug": "cults-yalahar-26",
+  "region": "Yalahar",
+  "continent": "Yalahar",
+  "city": "Yalahar",
+  "coords": {
+   "x": 32822,
+   "y": 31272,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 60,
+  "levelMax": 108,
+  "recLevel": "60+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-lion-s-rock-27",
+  "name": "Lion's Rock",
+  "slug": "lion-s-rock-27",
+  "region": "Ankrahmun",
+  "continent": "Ankrahmun",
+  "city": "Ankrahmun",
+  "coords": {
+   "x": 33112,
+   "y": 32835,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 60,
+  "levelMax": 108,
+  "recLevel": "60+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-werebadgers-grimvale-1-28",
+  "name": "Werebadgers Grimvale -1",
+  "slug": "werebadgers-grimvale-1-28",
+  "region": "Grimvale",
+  "continent": "Grimvale",
+  "city": "Grimvale",
+  "coords": {
+   "x": 33282,
+   "y": 31791,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 70,
+  "levelMax": 126,
+  "recLevel": "70+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-hive-surface-29",
+  "name": "Hive Surface",
+  "slug": "hive-surface-29",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32642,
+   "y": 32735,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 80,
+  "levelMax": 144,
+  "recLevel": "80+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-iksupan-entrance-30",
+  "name": "Iksupan Entrance",
+  "slug": "iksupan-entrance-30",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33895,
+   "y": 31498,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 70,
+  "levelMax": 126,
+  "recLevel": "70+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-liberty-bay-bonelord-cave-31",
+  "name": "Liberty Bay Bonelord Cave",
+  "slug": "liberty-bay-bonelord-cave-31",
+  "region": "Liberty Bay",
+  "continent": "Liberty Bay",
+  "city": "Liberty Bay",
+  "coords": {
+   "x": 32319,
+   "y": 32821,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 70,
+  "levelMax": 126,
+  "recLevel": "70+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-mother-of-scarabs-lair-4-32",
+  "name": "Mother of Scarabs Lair -4",
+  "slug": "mother-of-scarabs-lair-4-32",
+  "region": "Ankrahmun",
+  "continent": "Ankrahmun",
+  "city": "Ankrahmun",
+  "coords": {
+   "x": 33136,
+   "y": 32858,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 80,
+  "levelMax": 144,
+  "recLevel": "80+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-demonwar-crypt-33",
+  "name": "Demonwar Crypt",
+  "slug": "demonwar-crypt-33",
+  "region": "Yalahar",
+  "continent": "Yalahar",
+  "city": "Yalahar",
+  "coords": {
+   "x": 32819,
+   "y": 31231,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 80,
+  "levelMax": 144,
+  "recLevel": "80+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-nightmare-scions-krailos-34",
+  "name": "Nightmare Scions Krailos",
+  "slug": "nightmare-scions-krailos-34",
+  "region": "Rathleton",
+  "continent": "Rathleton",
+  "city": "Rathleton",
+  "coords": {
+   "x": 33535,
+   "y": 32401,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-holy-portal-35",
+  "name": "Holy Portal",
+  "slug": "holy-portal-35",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33168,
+   "y": 31792,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-dragon-lords-fenrock-36",
+  "name": "Dragon Lords Fenrock",
+  "slug": "dragon-lords-fenrock-36",
+  "region": "Kazordoon",
+  "continent": "Kazordoon",
+  "city": "Kazordoon",
+  "coords": {
+   "x": 32673,
+   "y": 31919,
+   "z": 8,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-dragon-lords-darashia-37",
+  "name": "Dragon Lords Darashia",
+  "slug": "dragon-lords-darashia-37",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33186,
+   "y": 32432,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-edron-south-werecreatures-38",
+  "name": "Edron South Werecreatures",
+  "slug": "edron-south-werecreatures-38",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33158,
+   "y": 31818,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-grimvale-4-39",
+  "name": "Grimvale -4",
+  "slug": "grimvale-4-39",
+  "region": "Grimvale",
+  "continent": "Grimvale",
+  "city": "Grimvale",
+  "coords": {
+   "x": 33286,
+   "y": 31744,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-werehyaenas-1-40",
+  "name": "Werehyaenas -1",
+  "slug": "werehyaenas-1-40",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33237,
+   "y": 32458,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-oramond-minos-south-41",
+  "name": "Oramond Minos South",
+  "slug": "oramond-minos-south-41",
+  "region": "Oramond",
+  "continent": "Oramond",
+  "city": "Oramond",
+  "coords": {
+   "x": 33467,
+   "y": 32191,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-exotic-cave-42",
+  "name": "Exotic Cave",
+  "slug": "exotic-cave-42",
+  "region": "Feyrist",
+  "continent": "Feyrist",
+  "city": "Feyrist",
+  "coords": {
+   "x": 33596,
+   "y": 31600,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-mini-rosha-43",
+  "name": "Mini Rosha",
+  "slug": "mini-rosha-43",
+  "region": "Roshamuul",
+  "continent": "Roshamuul",
+  "city": "Roshamuul",
+  "coords": {
+   "x": 33670,
+   "y": 31686,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-yielothax-44",
+  "name": "Yielothax",
+  "slug": "yielothax-44",
+  "region": "Kazordoon",
+  "continent": "Kazordoon",
+  "city": "Kazordoon",
+  "coords": {
+   "x": 32687,
+   "y": 31907,
+   "z": 8,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-old-masonry-death-portal-45",
+  "name": "Old Masonry Death Portal",
+  "slug": "old-masonry-death-portal-45",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33155,
+   "y": 31838,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-quaras-liberty-bay-46",
+  "name": "Quaras Liberty Bay",
+  "slug": "quaras-liberty-bay-46",
+  "region": "Liberty Bay",
+  "continent": "Liberty Bay",
+  "city": "Liberty Bay",
+  "coords": {
+   "x": 32330,
+   "y": 32829,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-putrid-mummy-47",
+  "name": "Putrid Mummy",
+  "slug": "putrid-mummy-47",
+  "region": "Ankrahmun",
+  "continent": "Ankrahmun",
+  "city": "Ankrahmun",
+  "coords": {
+   "x": 33147,
+   "y": 32866,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-muggy-plains-48",
+  "name": "Muggy Plains",
+  "slug": "muggy-plains-48",
+  "region": "Zao",
+  "continent": "Zao",
+  "city": "Zao",
+  "coords": {
+   "x": 33103,
+   "y": 32834,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-ravenous-lava-lurkers-49",
+  "name": "Ravenous Lava Lurkers",
+  "slug": "ravenous-lava-lurkers-49",
+  "region": "Kazordoon",
+  "continent": "Kazordoon",
+  "city": "Kazordoon",
+  "coords": {
+   "x": 32650,
+   "y": 31930,
+   "z": 8,
+   "approx": true
+  },
+  "levelMin": 100,
+  "levelMax": 180,
+  "recLevel": "100+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-lizard-chosens-50",
+  "name": "Lizard Chosens",
+  "slug": "lizard-chosens-50",
+  "region": "Zao",
+  "continent": "Zao",
+  "city": "Zao",
+  "coords": {
+   "x": 33137,
+   "y": 32831,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 100,
+  "levelMax": 180,
+  "recLevel": "100+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-carlin-cults-51",
+  "name": "Carlin Cults",
+  "slug": "carlin-cults-51",
+  "region": "Carlin",
+  "continent": "Carlin",
+  "city": "Carlin",
+  "coords": {
+   "x": 32363,
+   "y": 31801,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-orc-cults-52",
+  "name": "Orc Cults",
+  "slug": "orc-cults-52",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33152,
+   "y": 31797,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-glooth-bandits-53",
+  "name": "Glooth Bandits",
+  "slug": "glooth-bandits-53",
+  "region": "Oramond",
+  "continent": "Oramond",
+  "city": "Oramond",
+  "coords": {
+   "x": 33488,
+   "y": 32234,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 90,
+  "levelMax": 162,
+  "recLevel": "90+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 2,
+  "risk": 2,
+  "damageTypes": [
+   "physical"
+  ],
+  "resistances": [
+   "physical"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-lizard-city-54",
+  "name": "Lizard City",
+  "slug": "lizard-city-54",
+  "region": "Zao",
+  "continent": "Zao",
+  "city": "Zao",
+  "coords": {
+   "x": 33144,
+   "y": 32825,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 120,
+  "levelMax": 216,
+  "recLevel": "120+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-misguided-55",
+  "name": "Misguided",
+  "slug": "misguided-55",
+  "region": "Venore",
+  "continent": "Venore",
+  "city": "Venore",
+  "coords": {
+   "x": 32833,
+   "y": 32101,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 120,
+  "levelMax": 216,
+  "recLevel": "120+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-souleater-mountain-56",
+  "name": "Souleater Mountain",
+  "slug": "souleater-mountain-56",
+  "region": "Zao",
+  "continent": "Zao",
+  "city": "Zao",
+  "coords": {
+   "x": 33117,
+   "y": 32822,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 125,
+  "levelMax": 225,
+  "recLevel": "125+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-deeplings-library-57",
+  "name": "Deeplings Library",
+  "slug": "deeplings-library-57",
+  "region": "Liberty Bay",
+  "continent": "Liberty Bay",
+  "city": "Liberty Bay",
+  "coords": {
+   "x": 32334,
+   "y": 32843,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 120,
+  "levelMax": 216,
+  "recLevel": "120+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-oramond-west-quara-raid-58",
+  "name": "Oramond West Quara Raid",
+  "slug": "oramond-west-quara-raid-58",
+  "region": "Oramond",
+  "continent": "Oramond",
+  "city": "Oramond",
+  "coords": {
+   "x": 33512,
+   "y": 32196,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 120,
+  "levelMax": 216,
+  "recLevel": "120+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-otherworld-kazordoon-59",
+  "name": "Otherworld Kazordoon",
+  "slug": "otherworld-kazordoon-59",
+  "region": "Kazordoon",
+  "continent": "Kazordoon",
+  "city": "Kazordoon",
+  "coords": {
+   "x": 32637,
+   "y": 31915,
+   "z": 8,
+   "approx": true
+  },
+  "levelMin": 150,
+  "levelMax": 270,
+  "recLevel": "150+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-elder-wyrms-drefia-60",
+  "name": "Elder Wyrms Drefia",
+  "slug": "elder-wyrms-drefia-60",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33211,
+   "y": 32428,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 130,
+  "levelMax": 234,
+  "recLevel": "130+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-pirats-wreckoning-61",
+  "name": "Pirats Wreckoning",
+  "slug": "pirats-wreckoning-61",
+  "region": "Venore",
+  "continent": "Venore",
+  "city": "Venore",
+  "coords": {
+   "x": 32874,
+   "y": 32092,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 150,
+  "levelMax": 270,
+  "recLevel": "150+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-brimstone-bugs-wote-62",
+  "name": "Brimstone Bugs WOTE",
+  "slug": "brimstone-bugs-wote-62",
+  "region": "Kazordoon",
+  "continent": "Kazordoon",
+  "city": "Kazordoon",
+  "coords": {
+   "x": 32627,
+   "y": 31880,
+   "z": 8,
+   "approx": true
+  },
+  "levelMin": 150,
+  "levelMax": 270,
+  "recLevel": "150+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-glooth-tower-63",
+  "name": "Glooth Tower",
+  "slug": "glooth-tower-63",
+  "region": "Oramond",
+  "continent": "Oramond",
+  "city": "Oramond",
+  "coords": {
+   "x": 33475,
+   "y": 32219,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 150,
+  "levelMax": 270,
+  "recLevel": "150+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-yalahar-grim-reapers-64",
+  "name": "Yalahar Grim Reapers",
+  "slug": "yalahar-grim-reapers-64",
+  "region": "Yalahar",
+  "continent": "Yalahar",
+  "city": "Yalahar",
+  "coords": {
+   "x": 32797,
+   "y": 31276,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 150,
+  "levelMax": 270,
+  "recLevel": "150+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-deeper-banuta-6-65",
+  "name": "Deeper Banuta -6",
+  "slug": "deeper-banuta-6-65",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32644,
+   "y": 32742,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 150,
+  "levelMax": 270,
+  "recLevel": "150+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-oramond-wildlife-raid-66",
+  "name": "Oramond Wildlife Raid",
+  "slug": "oramond-wildlife-raid-66",
+  "region": "Oramond",
+  "continent": "Oramond",
+  "city": "Oramond",
+  "coords": {
+   "x": 33465,
+   "y": 32245,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 150,
+  "levelMax": 270,
+  "recLevel": "150+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 3,
+  "risk": 3,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-medusa-tower-67",
+  "name": "Medusa Tower",
+  "slug": "medusa-tower-67",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32617,
+   "y": 32739,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-werehyaenas-north-68",
+  "name": "Werehyaenas North",
+  "slug": "werehyaenas-north-68",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33225,
+   "y": 32477,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-werehyaenas-south-69",
+  "name": "Werehyaenas South",
+  "slug": "werehyaenas-south-69",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33242,
+   "y": 32445,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-seacrest-serpents-70",
+  "name": "Seacrest Serpents",
+  "slug": "seacrest-serpents-70",
+  "region": "Liberty Bay",
+  "continent": "Liberty Bay",
+  "city": "Liberty Bay",
+  "coords": {
+   "x": 32311,
+   "y": 32854,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-draken-walls-71",
+  "name": "Draken Walls",
+  "slug": "draken-walls-71",
+  "region": "Zao",
+  "continent": "Zao",
+  "city": "Zao",
+  "coords": {
+   "x": 33128,
+   "y": 32830,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-hive-stage-3-72",
+  "name": "Hive Stage 3",
+  "slug": "hive-stage-3-72",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32641,
+   "y": 32762,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-otherworld-edron-73",
+  "name": "Otherworld Edron",
+  "slug": "otherworld-edron-73",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33143,
+   "y": 31796,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-minotaur-cults-74",
+  "name": "Minotaur Cults",
+  "slug": "minotaur-cults-74",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33205,
+   "y": 32468,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-carnivora-s-rock-75",
+  "name": "Carnivora's Rock",
+  "slug": "carnivora-s-rock-75",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32631,
+   "y": 32727,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 250,
+  "levelMax": 450,
+  "recLevel": "250+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-warzone-4-76",
+  "name": "Warzone 4",
+  "slug": "warzone-4-76",
+  "region": "Rathleton",
+  "continent": "Rathleton",
+  "city": "Rathleton",
+  "coords": {
+   "x": 33578,
+   "y": 32399,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 230,
+  "levelMax": 414,
+  "recLevel": "230+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-warzone-5-77",
+  "name": "Warzone 5",
+  "slug": "warzone-5-77",
+  "region": "Rathleton",
+  "continent": "Rathleton",
+  "city": "Rathleton",
+  "coords": {
+   "x": 33534,
+   "y": 32367,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 230,
+  "levelMax": 414,
+  "recLevel": "230+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-warzone-6-78",
+  "name": "Warzone 6",
+  "slug": "warzone-6-78",
+  "region": "Rathleton",
+  "continent": "Rathleton",
+  "city": "Rathleton",
+  "coords": {
+   "x": 33551,
+   "y": 32396,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 230,
+  "levelMax": 414,
+  "recLevel": "230+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-asura-palace-79",
+  "name": "Asura Palace",
+  "slug": "asura-palace-79",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33229,
+   "y": 32430,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-deeper-banuta-8-80",
+  "name": "Deeper Banuta -8",
+  "slug": "deeper-banuta-8-80",
+  "region": "Port Hope",
+  "continent": "Port Hope",
+  "city": "Port Hope",
+  "coords": {
+   "x": 32594,
+   "y": 32750,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 250,
+  "levelMax": 450,
+  "recLevel": "250+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-werelions-1-81",
+  "name": "Werelions -1",
+  "slug": "werelions-1-81",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33202,
+   "y": 32427,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 200,
+  "levelMax": 360,
+  "recLevel": "200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-werelions-2-82",
+  "name": "Werelions -2",
+  "slug": "werelions-2-82",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33219,
+   "y": 32456,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 300,
+  "levelMax": 540,
+  "recLevel": "300+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-asura-mirror-83",
+  "name": "Asura Mirror",
+  "slug": "asura-mirror-83",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33236,
+   "y": 32485,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 250,
+  "levelMax": 450,
+  "recLevel": "250+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-winter-court-84",
+  "name": "Winter Court",
+  "slug": "winter-court-84",
+  "region": "Feyrist",
+  "continent": "Feyrist",
+  "city": "Feyrist",
+  "coords": {
+   "x": 33578,
+   "y": 31598,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 300,
+  "levelMax": 540,
+  "recLevel": "300+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-summer-court-85",
+  "name": "Summer Court",
+  "slug": "summer-court-85",
+  "region": "Feyrist",
+  "continent": "Feyrist",
+  "city": "Feyrist",
+  "coords": {
+   "x": 33595,
+   "y": 31627,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 300,
+  "levelMax": 540,
+  "recLevel": "300+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-burster-spectres-86",
+  "name": "Burster Spectres",
+  "slug": "burster-spectres-86",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33181,
+   "y": 31807,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 275,
+  "levelMax": 495,
+  "recLevel": "275+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-ripper-spectres-87",
+  "name": "Ripper Spectres",
+  "slug": "ripper-spectres-87",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33198,
+   "y": 31836,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 300,
+  "levelMax": 540,
+  "recLevel": "300+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-gazer-spectre-88",
+  "name": "Gazer Spectre",
+  "slug": "gazer-spectre-88",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33154,
+   "y": 31804,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 275,
+  "levelMax": 495,
+  "recLevel": "275+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-marapur-turtles-89",
+  "name": "Marapur Turtles",
+  "slug": "marapur-turtles-89",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33922,
+   "y": 31501,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 275,
+  "levelMax": 495,
+  "recLevel": "275+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 4,
+  "risk": 4,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-marapur-nagas-90",
+  "name": "Marapur Nagas",
+  "slug": "marapur-nagas-90",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33939,
+   "y": 31469,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 300,
+  "levelMax": 540,
+  "recLevel": "300+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-buried-cathedral-91",
+  "name": "Buried Cathedral",
+  "slug": "buried-cathedral-91",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33144,
+   "y": 31830,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 350,
+  "levelMax": 630,
+  "recLevel": "350+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-crypt-warriors-92",
+  "name": "Crypt Warriors",
+  "slug": "crypt-warriors-92",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33161,
+   "y": 31798,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 400,
+  "levelMax": 720,
+  "recLevel": "400+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-falcons-93",
+  "name": "Falcons",
+  "slug": "falcons-93",
+  "region": "Edron",
+  "continent": "Edron",
+  "city": "Edron",
+  "coords": {
+   "x": 33178,
+   "y": 31827,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 400,
+  "levelMax": 720,
+  "recLevel": "400+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-deathlings-94",
+  "name": "Deathlings",
+  "slug": "deathlings-94",
+  "region": "Roshamuul",
+  "continent": "Roshamuul",
+  "city": "Roshamuul",
+  "coords": {
+   "x": 33683,
+   "y": 31640,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 400,
+  "levelMax": 720,
+  "recLevel": "400+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-upper-roshamuul-95",
+  "name": "Upper Roshamuul",
+  "slug": "upper-roshamuul-95",
+  "region": "Roshamuul",
+  "continent": "Roshamuul",
+  "city": "Roshamuul",
+  "coords": {
+   "x": 33639,
+   "y": 31669,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 400,
+  "levelMax": 720,
+  "recLevel": "400+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-cobra-bastion-96",
+  "name": "Cobra Bastion",
+  "slug": "cobra-bastion-96",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33213,
+   "y": 32435,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 400,
+  "levelMax": 720,
+  "recLevel": "400+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-warzone-3-97",
+  "name": "Warzone 3",
+  "slug": "warzone-3-97",
+  "region": "Rathleton",
+  "continent": "Rathleton",
+  "city": "Rathleton",
+  "coords": {
+   "x": 33569,
+   "y": 32398,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 500,
+  "levelMax": 900,
+  "recLevel": "500+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-norcferatu-fortress-98",
+  "name": "Norcferatu Fortress",
+  "slug": "norcferatu-fortress-98",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33892,
+   "y": 31457,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 600,
+  "levelMax": 1080,
+  "recLevel": "600+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-azzilon-walls-99",
+  "name": "Azzilon Walls",
+  "slug": "azzilon-walls-99",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33909,
+   "y": 31486,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 600,
+  "levelMax": 1080,
+  "recLevel": "600+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-azzilon-castle-100",
+  "name": "Azzilon Castle",
+  "slug": "azzilon-castle-100",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33926,
+   "y": 31454,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 600,
+  "levelMax": 1080,
+  "recLevel": "600+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-issavi-ogres-101",
+  "name": "Issavi Ogres",
+  "slug": "issavi-ogres-101",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33943,
+   "y": 31483,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 500,
+  "levelMax": 900,
+  "recLevel": "500+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-deep-desert-102",
+  "name": "Deep Desert",
+  "slug": "deep-desert-102",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33899,
+   "y": 31451,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 600,
+  "levelMax": 1080,
+  "recLevel": "600+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-gnomprona-103",
+  "name": "Gnomprona",
+  "slug": "gnomprona-103",
+  "region": "Kazordoon",
+  "continent": "Kazordoon",
+  "city": "Kazordoon",
+  "coords": {
+   "x": 32653,
+   "y": 31910,
+   "z": 8,
+   "approx": true
+  },
+  "levelMin": 600,
+  "levelMax": 1080,
+  "recLevel": "600+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-soul-war-areas-104",
+  "name": "Soul War Areas",
+  "slug": "soul-war-areas-104",
+  "region": "Roshamuul",
+  "continent": "Roshamuul",
+  "city": "Roshamuul",
+  "coords": {
+   "x": 33670,
+   "y": 31686,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 600,
+  "levelMax": 1080,
+  "recLevel": "600+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-rotten-blood-105",
+  "name": "Rotten Blood",
+  "slug": "rotten-blood-105",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33950,
+   "y": 31477,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 800,
+  "levelMax": 1440,
+  "recLevel": "800+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-unhallowed-crypt-106",
+  "name": "Unhallowed Crypt",
+  "slug": "unhallowed-crypt-106",
+  "region": "Darashia",
+  "continent": "Darashia",
+  "city": "Darashia",
+  "coords": {
+   "x": 33200,
+   "y": 32481,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 800,
+  "levelMax": 1440,
+  "recLevel": "800+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-radiant-ascendency-107",
+  "name": "Radiant Ascendency",
+  "slug": "radiant-ascendency-107",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33923,
+   "y": 31474,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 1000,
+  "levelMax": 1800,
+  "recLevel": "1000+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ },
+ {
+  "id": "catalog-radiant-skyhold-108",
+  "name": "Radiant Skyhold",
+  "slug": "radiant-skyhold-108",
+  "region": "Issavi",
+  "continent": "Issavi",
+  "city": "Issavi",
+  "coords": {
+   "x": 33940,
+   "y": 31503,
+   "z": 7,
+   "approx": true
+  },
+  "levelMin": 1200,
+  "levelMax": 2160,
+  "recLevel": "1200+",
+  "vocations": [
+   "EK",
+   "RP",
+   "MS",
+   "ED",
+   "MNK"
+  ],
+  "modes": [
+   "solo",
+   "duo",
+   "party"
+  ],
+  "pacc": true,
+  "difficulty": 5,
+  "risk": 5,
+  "damageTypes": [
+   "physical",
+   "energy"
+  ],
+  "resistances": [
+   "physical",
+   "energy"
+  ],
+  "gear": [],
+  "spells": [],
+  "runes": [],
+  "potions": [],
+  "quests": [],
+  "access": [],
+  "alternatives": [],
+  "video": null,
+  "hero": null,
+  "monsters": [],
+  "description": "Katalogowy hunting spot z TibiaPal/TibiaWiki. Pozycja mapy jest przybliżona do obszaru miasta i oznaczona jako approx — dokładny marker można później ustawić.",
+  "pulling": "Dobierz wielkość pulla do poziomu, profesji i aktualnego respawnu.",
+  "rotation": "Dopasuj trasę do respawnu i liczby graczy na serwerze.",
+  "bestTime": "",
+  "partyRec": null,
+  "lastUpdated": "23.09.2026",
+  "dataQuality": "catalog",
+  "sources": [
+   {
+    "label": "TibiaPal — Hunting Places",
+    "url": "https://tibiapal.com/hunting"
+   },
+   {
+    "label": "TibiaWiki — Hunting Places",
+    "url": "https://tibia.fandom.com/wiki/Hunting_Places"
+   }
+  ],
+  "source": "TibiaPal/TibiaWiki",
+  "sourceNote": "Poziom katalogowy; EXP/profit zależą od profesji, świata, cen rynku i aktualizacji.",
+  "stats": [],
+  "expByLevel": [],
+  "expPerHour": null,
+  "profitPerHour": null,
+  "wastePerHour": {
+   "max": 0
+  }
+ }
+]

@@ -121,8 +121,9 @@
     const cityParam = qs.get('city');
     Promise.all([
       fetch('/api/spots-map-markers').then(r => r.json()),
-      fetch('/api/cities').then(r => r.json())
-    ]).then(([markers, citiesData]) => {
+      fetch('/api/cities').then(r => r.json()),
+      fetch('/api/map-markers').then(r => r.json())
+    ]).then(([markers, citiesData, mapMarkerData]) => {
       const cityMarkers = [];
       for (const c of citiesData.cities) {
         cityMarkers.push({ name: c.name, x: c.x, y: c.y, z: c.z, type: 'city' });
@@ -150,6 +151,12 @@
               <div class="inline-form"><a class="btn btn-gold btn-sm" href="/hunt/${esc(m.slug)}">Otwórz kartę spotu</a>
               <button class="btn btn-sm" id="popCenter">Wyśrodkuj</button></div>`;
             $('#popCenter').addEventListener('click', () => map.centerOn(m.x, m.y, m.z, 5));
+          } else if (m.kind === 'map') {
+            pop.innerHTML = `<h3>📌 ${esc(m.description || m.icon || 'Znacznik mapy')}</h3>
+              <p class="small muted">Typ: <b>${esc(m.type || 'other')}</b> · X: ${esc(m.x)} · Y: ${esc(m.y)} · piętro: ${esc(m.z)}</p>
+              <div class="inline-form"><button class="btn btn-sm" id="mapCopyCoords">Kopiuj współrzędne</button><button class="btn btn-sm" id="mapCenterMarker">Wyśrodkuj</button></div>`;
+            const cc=$('#mapCopyCoords'); if(cc) cc.addEventListener('click',()=>navigator.clipboard?.writeText(`${m.x}, ${m.y}, ${m.z}`));
+            const cm=$('#mapCenterMarker'); if(cm) cm.addEventListener('click',()=>map.centerOn(m.x,m.y,m.z,5));
           } else {
             pop.innerHTML = `<h3>📍 ${esc(m.name)}</h3><p class="small muted">Znacznik POI miasta (depot/bank/temple/bless) — dane tibiamaps.io.</p>`;
           }
@@ -158,12 +165,29 @@
       });
       map.setMarkers(markers);
       map.setCities(citiesData.cities);
-      $('#mapZoomIn').addEventListener('click', () => map.zoom(1));
+      map.setMapMarkers(mapMarkerData.markers || []);
       $('#mapZoomOut').addEventListener('click', () => map.zoom(-1));
-      $('#mapFloorUp').addEventListener('click', () => map.floorUp());
-      $('#mapFloorDown').addEventListener('click', () => map.floorDown());
+
+      $('#mapFloorUp').addEventListener('click', () => { map.floorUp(); refreshMapMarkers(); });
+      $('#mapFloorDown').addEventListener('click', () => { map.floorDown(); refreshMapMarkers(); });
       $('#showSpots').addEventListener('change', e => map.setShowSpots(e.target.checked));
       $('#showCities').addEventListener('change', e => map.setShowCities(e.target.checked));
+      const mapSearch = $('#mapMarkerSearch');
+      const mapType = $('#mapMarkerType');
+      const mapCount = $('#mapMarkerCount');
+      async function refreshMapMarkers() {
+        const p = new URLSearchParams();
+        const q = (mapSearch && mapSearch.value || '').trim(); if (q) p.set('q', q);
+        const t = mapType && mapType.value; if (t) p.set('type', t);
+        const z = $('#showFloorOnly') && $('#showFloorOnly').checked ? map.getFloor() : null;
+        if (z !== null) p.set('z', z);
+        try { const d = await (await fetch('/api/map-markers?' + p.toString())).json(); map.setMapMarkers(d.markers || []); if (mapCount) mapCount.textContent = `${d.total} znaczników`; } catch(e) {}
+      }
+      if (mapSearch) mapSearch.addEventListener('input', () => { clearTimeout(window.__mapSearchTimer); window.__mapSearchTimer=setTimeout(refreshMapMarkers,180); });
+      if (mapType) mapType.addEventListener('change', refreshMapMarkers);
+      const floorOnly=$('#showFloorOnly'); if(floorOnly) floorOnly.addEventListener('change', refreshMapMarkers);
+      $('#mapZoomIn').addEventListener('click', () => map.zoom(1));
+      if (mapCount) mapCount.textContent = `${mapMarkerData.markers.length} znaczników`; 
       if (spotSlug) setTimeout(() => { const m = markers.find(x => x.slug === spotSlug); if (m) $('#mapPopup').hidden = false; }, 300);
     });
   }

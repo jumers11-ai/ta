@@ -215,3 +215,10 @@ select:focus, input:focus, textarea:focus { outline: none; border-color: var(--g
   .party-player { grid-template-columns: 1fr 1fr; }
   .bar-row { grid-template-columns: 90px 1fr 70px; }
 }
+
+/* Expanded map controls */
+.map-toolbar{display:grid;gap:10px;margin:12px 0}
+.map-search-row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.map-search-row input[type=search]{flex:1;min-width:240px}
+.map-search-row select{min-width:170px}
+.map-marker-label{pointer-events:none;position:absolute;transform:translate(8px,8px);z-index:4;background:rgba(8,8,14,.94);border:1px solid rgba(212,169,65,.5);padding:4px 7px;border-radius:5px;font-size:11px;color:#fff;white-space:nowrap;box-shadow:0 5px 18px rgba(0,0,0,.35)}
