@@ -18,7 +18,7 @@
     let zi = opts.zoom || 2, scale = ZOOMS[zi];
     let tileCache = new Map();
     let tileErrors = 0, tileLoads = 0;
-    let markers = []; let cities = [];
+    let markers = []; let cities = []; let mapMarkers = [];
     let showSpots = true, showCities = true;
     let dragging = false, dragMoved = false, lastX = 0, lastY = 0;
     let hoverMarker = null;
@@ -74,6 +74,7 @@
       // markers
       if (showCities) for (const c of cities) drawCity(c, left, top);
       if (showSpots) for (const m of markers) drawMarker(m, left, top);
+      for (const m of mapMarkers) drawMapMarker(m, left, top);
       // coords
       if (opts.onCoords) opts.onCoords(Math.floor(cx), Math.floor(cy), floor);
     }
@@ -101,6 +102,21 @@
         ctx.textAlign = 'left';
       }
     }
+    function drawMapMarker(m, left, top) {
+      if (m.z !== floor) return;
+      const x = px(m.x + 0.5, left), y = py(m.y + 0.5, top);
+      if (x < -12 || y < -12 || x > canvas.width + 12 || y > canvas.height + 12) return;
+      const colors = { hunt:'#d94b4b', danger:'#ef6c3d', location:'#e0c04f', stairs:'#67a7ff', poi:'#b77cff', quest:'#f0a84b', other:'#9aa0aa' };
+      const col = colors[m.type] || colors.other;
+      const r = scale >= 7 ? 4 : 2;
+      ctx.beginPath(); ctx.arc(x, y, r, 0, Math.PI * 2); ctx.fillStyle = col; ctx.fill();
+      if (scale >= 7 && m.description) {
+        ctx.font = '10px sans-serif'; ctx.fillStyle = 'rgba(0,0,0,.75)';
+        const label = String(m.description).slice(0, 44), tw = ctx.measureText(label).width;
+        ctx.fillRect(x + 6, y - 7, tw + 6, 13); ctx.fillStyle = '#fff'; ctx.textAlign = 'left'; ctx.fillText(label, x + 9, y + 3); ctx.textAlign = 'left';
+      }
+    }
+
     function drawCity(c, left, top) {
       if (c.z !== floor) return;
       const x = px(c.x + 0.5, left), y = py(c.y + 0.5, top);
@@ -131,6 +147,7 @@
       };
       if (showSpots) for (const m of markers) test(m, 'spot');
       if (showCities) for (const c of cities) test(c, 'city');
+      for (const m of mapMarkers) test(m, 'map');
       return best;
     }
 
@@ -205,6 +222,8 @@
     return {
       setMarkers: (m) => { markers = m; draw(); },
       setCities: (c) => { cities = c; draw(); },
+      setMapMarkers: (m) => { mapMarkers = m || []; draw(); },
+      getFloor: () => floor,
       centerOn: (x, y, z, zoomIdx) => { cx = x + 0.5; cy = y + 0.5; if (z !== undefined) floor = z; if (zoomIdx !== undefined) { zi = zoomIdx; scale = ZOOMS[zi]; } tileCache.clear(); draw(); },
       zoom: (dir) => { zi = clamp(zi + dir, 0, ZOOMS.length - 1); scale = ZOOMS[zi]; draw(); },
       floorUp: () => { if (floor > 0) { floor--; tileCache.clear(); draw(); } return floor; },
